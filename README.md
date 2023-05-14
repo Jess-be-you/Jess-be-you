@@ -1,4 +1,4 @@
-<h1 align="center">Hey!!😍, I'm JESMI PJ</h1>
+<h1 align="center">Hey!!, I'm JESMI PJ</h1>
 <h3 align="center">WEB DEVELOPER</h3>
 
 - 💪Enthusiastic **Frontend developer**
