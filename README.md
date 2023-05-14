@@ -1,5 +1,5 @@
-<h1 align="center">Hey!!, I'm JESMI PJ</h1>
-<h3 align="center">WEB DEVELOPER</h3>
+<h1 align="left">Hey!!, I'm JESMI PJ</h1>
+<h3 align="left">WEB DEVELOPER</h3>
 
 - 💪Enthusiastic **Frontend developer**
 
