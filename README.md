@@ -9,13 +9,13 @@
 
 - 🤝Looking to work on great **web applications and projects**
 
-- 🔗 Linkedin [linkedin.com/in/jesmi-p-j-740925236](linkedin.com/in/jesmi-p-j-740925236)
+- 🔗 Linkedin [Linkedin](linkedin.com/in/jesmi-p-j-740925236)
 
 - 👩‍💻Codes in **C,Python,Solidity**
 
-- ✉️To reach me.. **jesmijose282@gmail.com**
+- ✉️To reach me... [Email](jesmijose282@gmail.com)
 
-- 📄 My Resume [https://drive.google.com/file/d/1IDrf3PMGH_DNMdO3nbp9zPqDU5MAVhWI/view?usp=drivesdk](https://drive.google.com/file/d/1IDrf3PMGH_DNMdO3nbp9zPqDU5MAVhWI/view?usp=drivesdk)
+- 📄 My Resume [Resume](https://drive.google.com/file/d/1IDrf3PMGH_DNMdO3nbp9zPqDU5MAVhWI/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
