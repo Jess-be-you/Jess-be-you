@@ -11,7 +11,7 @@
 
 - 🔗 Linkedin [Linkedin](linkedin.com/in/jesmi-p-j-740925236)
 
-- 👩‍💻Codes in **C,Python,Solidity**
+- 👩‍💻Codes in **C,Python**
 
 - ✉️To reach me... [Email](jesmijose282@gmail.com)
 
